@@ -5,11 +5,11 @@
 </div>
 
 - Members
-  - Changeun Yang
-  - Yusang Jeon
+  - [Changeun Yang](https://github.com/yangchangnaihoby)
+  - [Yusang Jeon](https://github.com/MarigoldJ)
   - Kyeongrae Kim
 
 ####
 
 - Notion Link  
-  [[Jerkys Notion](https://www.notion.so/marigoldj/Jerkys-49e5d3b791214855b20c9f53651af3e2)]
+  [Jerkys Notion](https://www.notion.so/marigoldj/Jerkys-49e5d3b791214855b20c9f53651af3e2)
