@@ -11,5 +11,8 @@
 
 ####
 
-- Notion Link  
-  [Jerkys Notion](https://www.notion.so/marigoldj/Jerkys-49e5d3b791214855b20c9f53651af3e2)
+- Related Sites Link
+  - [Jerkys Notion](https://www.notion.so/marigoldj/Jerkys-49e5d3b791214855b20c9f53651af3e2)
+  - [Jira Scheduler](https://jerkys.atlassian.net/jira/software/projects/J001/boards/2)
+
+####
